@@ -1,0 +1,15 @@
+\BOOKMARK [2][]{Outline0.1}{ASR}{}% 1
+\BOOKMARK [2][]{Outline0.2}{Before\040end-to-end}{}% 2
+\BOOKMARK [2][]{Outline0.3}{End-to-end}{}% 3
+\BOOKMARK [2][]{Outline0.4}{Attention}{}% 4
+\BOOKMARK [2][]{Outline0.5}{Joint\040CTC/Attention\040architectures\040[Watanabe\040et\040al.,\0402017]}{}% 5
+\BOOKMARK [2][]{Outline0.6}{Our\040Work\040-\040Proposed\040multi-target\040architecture\040[Under\040review\040at\040ASRU\0402019]}{}% 6
+\BOOKMARK [2][]{Outline0.7}{Results}{}% 7
+\BOOKMARK [3][]{Outline0.7.1.70}{Architectural\040studies\040on\040TIMIT}{Outline0.7}% 8
+\BOOKMARK [2][]{Outline0.8}{Future\040Work}{}% 9
+\BOOKMARK [3][]{Outline0.8.1.74}{Multi-Head\040decoder}{Outline0.8}% 10
+\BOOKMARK [3][]{Outline0.8.2.75}{Attention\040as\040alignment}{Outline0.8}% 11
+\BOOKMARK [3][]{Outline0.8.3.76}{ORACLE}{Outline0.8}% 12
+\BOOKMARK [3][]{Outline0.8.4.77}{Interpretability\040and\040Explainability}{Outline0.8}% 13
+\BOOKMARK [3][]{Outline0.8.5.78}{Analysis}{Outline0.8}% 14
+\BOOKMARK [3][]{Outline0.8.6.78}{Analysis}{Outline0.8}% 15

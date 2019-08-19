@@ -1,0 +1,11 @@
+1,vggbgrup_1_dot_lstm_1,41.1,38.6,29,22.5,
+2,vggbgrup_1_add_lstm_1,40.3,37.9,34.2,22.7,
+3,vggbgrup_1_location_lstm_1,38.3,36.5,22.4,21.3,
+4,vggbgrup_1_coverage_lstm_1,38.8,36.8,21.4,21.7,
+5,vggbgrup_1_coverage_location_lstm_1,38.5,36.5,21.7,22.1,
+6,vggbgrup_1_location2d_lstm_1,39.5,37.6,21.2,20.8,
+7,vggbgrup_1_location_recurrent_lstm_1,40.4,38.5,21.4,22.6,
+8,vggbgrup_1_multi_head_dot_lstm_1,42.3,39.4,21.9,23,
+9,vggbgrup_1_multi_head_add_lstm_1,41.9,40.3,23.1,24.5,210
+10,vggbgrup_1_multi_head_loc_lstm_1,40,34.8,29.8,22,
+11,vggbgrup_1_multi_head_multi_res_loc_lstm_1,41.3,33.9,21.8,28,258

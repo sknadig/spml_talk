@@ -1,0 +1,11 @@
+1,vggblstmp_5_dot_lstm_5,38.3,36.8,36.1,24.5
+2,vggblstmp_5_add_lstm_5,38.1,35.9,44.3,24.2
+3,vggblstmp_5_location_lstm_5,37.2,0,45.8,0
+4,vggblstmp_5_coverage_lstm_5,38.8,37.2,22.5,23.6
+5,vggblstmp_5_coverage_location_lstm_5,37.3,35.3,23.4,23
+6,vggblstmp_5_location2d_lstm_5,36.4,34.9,22.4,23
+7,vggblstmp_5_location_recurrent_lstm_5,41.8,35.2,42.2,23.5
+8,vggblstmp_5_multi_head_dot_lstm_5,43.8,35.9,34.4,23.5
+9,vggblstmp_5_multi_head_add_lstm_5,48.3,40.6,57.5,26.8
+10,vggblstmp_5_multi_head_loc_lstm_5,38.2,39.6,24.3,23.5
+11,vggblstmp_5_multi_head_multi_res_loc_lstm_5,0,0,23.1,0

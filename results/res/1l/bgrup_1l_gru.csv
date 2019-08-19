@@ -1,0 +1,11 @@
+1,bgrup_1_dot_gru_1,45.6,48.4,30.2,31.4,
+2,bgrup_1_add_gru_1,46.5,39,24.6,24.6,
+3,bgrup_1_location_gru_1,45,38.7,23.3,23.1,
+4,bgrup_1_coverage_gru_1,41.5,38.1,24.5,23.9,
+5,bgrup_1_coverage_location_gru_1,41.2,39.3,22.9,24.1,
+6,bgrup_1_location2d_gru_1,38.9,37,23.4,23.2,
+7,bgrup_1_location_recurrent_gru_1,43.7,39.8,25.2,25.9,
+8,bgrup_1_multi_head_dot_gru_1,47.1,48.3,39.6,32.1,
+9,bgrup_1_multi_head_add_gru_1,46.5,43.3,37.6,28.1,
+10,bgrup_1_multi_head_loc_gru_1,49.4,38.7,23.5,23.4,223
+11,bgrup_1_multi_head_multi_res_loc_gru_1,39.7,37.2,36.5,23.0,249

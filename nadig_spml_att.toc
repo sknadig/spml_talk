@@ -1,0 +1,31 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{ASR}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Before end-to-end}{10}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{End-to-end}{19}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Attention}{39}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Joint CTC/Attention architectures [Watanabe et al., 2017]}{63}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Our Work - Proposed multi-target architecture [Under review at ASRU 2019]}{67}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{Results}{69}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {7}{1}{Architectural studies on TIMIT}{70}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {8}{Future Work}{73}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {8}{1}{Multi-Head decoder}{74}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {8}{2}{Attention as alignment}{75}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {8}{3}{ORACLE}{76}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {8}{4}{Interpretability and Explainability}{77}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {8}{5}{Analysis}{78}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {8}{6}{Analysis}{78}{0}{8}

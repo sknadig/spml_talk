@@ -1,0 +1,11 @@
+1,vggblstmp_3_dot_gru_3,38.2,34.3,28.4,21.7
+2,vggblstmp_3_add_gru_3,39.1,34.4,21.9,22.1
+3,vggblstmp_3_location_gru_3,36.5,0,21.6,0
+4,vggblstmp_3_coverage_gru_3,42.4,34.1,21.5,22.4
+5,vggblstmp_3_coverage_location_gru_3,36.2,33.8,22,21.9
+6,vggblstmp_3_location2d_gru_3,37.6,33.2,21.8,21.3
+7,vggblstmp_3_location_recurrent_gru_3,37.7,34,28.5,21.9
+8,vggblstmp_3_multi_head_dot_gru_3,38.9,34.9,22.6,22.2
+9,vggblstmp_3_multi_head_add_gru_3,40.2,36.1,31.3,23.4
+10,vggblstmp_3_multi_head_loc_gru_3,37.3,59.8,21.4,43.0
+11,vggblstmp_3_multi_head_multi_res_loc_gru_3,0,0,29,0

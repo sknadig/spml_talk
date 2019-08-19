@@ -1,0 +1,11 @@
+1,vggbgrup_3_dot_gru_3,36.6,35.2,21.2,21.6
+2,vggbgrup_3_add_gru_3,36.7,33.1,21.5,21.5
+3,vggbgrup_3_location_gru_3,36.4,33.7,20.7,21.2
+4,vggbgrup_3_coverage_gru_3,35.8,33.4,21.1,21
+5,vggbgrup_3_coverage_location_gru_3,35.8,33.2,20.9,21.6
+6,vggbgrup_3_location2d_gru_3,34,33.3,20.9,20.7
+7,vggbgrup_3_location_recurrent_gru_3,35.7,33.7,21.7,21.1
+8,vggbgrup_3_multi_head_dot_gru_3,37,0,21.4,0
+9,vggbgrup_3_multi_head_add_gru_3,38.3,0,32,0
+10,vggbgrup_3_multi_head_loc_gru_3,0,0,21.1,0
+11,vggbgrup_3_multi_head_multi_res_loc_gru_3,0,0,30.3,0
